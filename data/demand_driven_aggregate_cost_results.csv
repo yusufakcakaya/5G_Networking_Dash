@@ -1,0 +1,10 @@
+strategy,scenario,cost,shape_Area_km2
+Hybrid,Scenario 1 (30 Mbps)," 1,004,899,690 ",34818
+Small Cells,Scenario 1 (30 Mbps)," 656,956,925 ",34818
+Spectrum Integration,Scenario 1 (30 Mbps)," 349,517,385 ",34818
+Hybrid,Scenario 2 (100 Mbps)," 1,828,187,602 ",34818
+Small Cells,Scenario 2 (100 Mbps)," 1,348,869,989 ",34818
+Spectrum Integration,Scenario 2 (100 Mbps)," 488,242,320 ",34818
+Hybrid,Scenario 3 (300 Mbps)," 2,349,286,374 ",34818
+Small Cells,Scenario 3 (300 Mbps)," 1,872,614,837 ",34818
+Spectrum Integration,Scenario 3 (300 Mbps)," 488,242,320 ",34818

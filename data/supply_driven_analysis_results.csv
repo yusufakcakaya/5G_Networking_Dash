@@ -1,0 +1,127 @@
+"","scenario","strategy","geotype","spectrum_availability","pop_density_km2","user_speed_mbps","active_users","demand_mbps_km2","max_user_demand_lte_mbps_km2","max_user_demand_5g_mbps_km2","max_user_demand_total_mbps_km2"
+"1","Scenario 1 (30 Mbps)","Hybrid","Rural 1","All",1176.48,30,5.58,167.3,10.97,4.08,15.05
+"2","Scenario 2 (100 Mbps)","Hybrid","Rural 1","All",1176.48,100,5.58,557.66,10.97,4.08,15.05
+"3","Scenario 3 (300 Mbps)","Small Cells","Rural 1","All",1176.48,300,5.58,1672.98,10.97,0,10.97
+"4","Scenario 3 (300 Mbps)","Hybrid","Rural 1","All",1176.48,300,5.58,1672.98,10.97,4.08,15.05
+"5","Scenario 2 (100 Mbps)","Small Cells","Rural 1","All",1176.48,100,5.58,557.66,10.97,0,10.97
+"6","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 1","All",1176.48,30,5.58,167.3,10.97,4.08,15.05
+"7","Scenario 1 (30 Mbps)","Small Cells","Rural 1","All",1176.48,30,5.58,167.3,10.97,0,10.97
+"8","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 1","All",1176.48,100,5.58,557.66,10.97,4.08,15.05
+"9","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 1","All",1176.48,300,5.58,1672.98,10.97,4.08,15.05
+"10","Scenario 1 (30 Mbps)","Hybrid","Rural 1","Limited",1166.46,30,5.53,165.87,8.3,3.01,11.31
+"11","Scenario 2 (100 Mbps)","Hybrid","Rural 1","Limited",1166.46,100,5.53,552.9,8.3,3.01,11.31
+"12","Scenario 3 (300 Mbps)","Small Cells","Rural 1","Limited",1166.46,300,5.53,1658.7,8.3,0,8.3
+"13","Scenario 3 (300 Mbps)","Hybrid","Rural 1","Limited",1166.46,300,5.53,1658.7,8.3,3.01,11.31
+"14","Scenario 2 (100 Mbps)","Small Cells","Rural 1","Limited",1166.46,100,5.53,552.9,8.3,0,8.3
+"15","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 1","Limited",1166.46,30,5.53,165.87,8.3,3.01,11.31
+"16","Scenario 1 (30 Mbps)","Small Cells","Rural 1","Limited",1166.46,30,5.53,165.87,8.3,0,8.3
+"17","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 1","Limited",1166.46,100,5.53,552.9,8.3,3.01,11.31
+"18","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 1","Limited",1166.46,300,5.53,1658.7,8.3,3.01,11.31
+"19","Scenario 1 (30 Mbps)","Hybrid","Rural 2","All",492.9,30,2.34,70.09,13.08,4.87,17.95
+"20","Scenario 3 (300 Mbps)","Small Cells","Rural 2","All",492.9,300,2.34,700.92,13.08,0,13.08
+"21","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 2","All",492.9,100,2.34,233.64,13.08,4.87,17.95
+"22","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 2","All",492.9,30,2.34,70.09,13.08,4.87,17.95
+"23","Scenario 1 (30 Mbps)","Small Cells","Rural 2","All",492.9,30,2.34,70.09,13.08,0,13.08
+"24","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 2","All",492.9,300,2.34,700.92,13.08,4.87,17.95
+"25","Scenario 3 (300 Mbps)","Hybrid","Rural 2","All",492.9,300,2.34,700.92,13.08,4.87,17.95
+"26","Scenario 2 (100 Mbps)","Small Cells","Rural 2","All",492.9,100,2.34,233.64,13.08,0,13.08
+"27","Scenario 2 (100 Mbps)","Hybrid","Rural 2","All",492.9,100,2.34,233.64,13.08,4.87,17.95
+"28","Scenario 1 (30 Mbps)","Hybrid","Rural 2","Limited",487.23,30,2.31,69.28,12.42,4.51,16.93
+"29","Scenario 3 (300 Mbps)","Small Cells","Rural 2","Limited",487.23,300,2.31,692.82,12.42,0,12.42
+"30","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 2","Limited",487.23,100,2.31,230.94,12.42,4.51,16.93
+"31","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 2","Limited",487.23,30,2.31,69.28,12.42,4.51,16.93
+"32","Scenario 1 (30 Mbps)","Small Cells","Rural 2","Limited",487.23,30,2.31,69.28,12.42,0,12.42
+"33","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 2","Limited",487.23,300,2.31,692.82,12.42,4.51,16.93
+"34","Scenario 3 (300 Mbps)","Hybrid","Rural 2","Limited",487.23,300,2.31,692.82,12.42,4.51,16.93
+"35","Scenario 2 (100 Mbps)","Small Cells","Rural 2","Limited",487.23,100,2.31,230.94,12.42,0,12.42
+"36","Scenario 2 (100 Mbps)","Hybrid","Rural 2","Limited",487.23,100,2.31,230.94,12.42,4.51,16.93
+"37","Scenario 3 (300 Mbps)","Hybrid","Rural 3","All",264.7,300,1.25,376.38,15.3,5.69,20.99
+"38","Scenario 2 (100 Mbps)","Small Cells","Rural 3","All",264.7,100,1.25,125.46,15.3,0,15.3
+"39","Scenario 1 (30 Mbps)","Hybrid","Rural 3","All",264.7,30,1.25,37.64,15.3,5.69,20.99
+"40","Scenario 3 (300 Mbps)","Small Cells","Rural 3","All",264.7,300,1.25,376.38,15.3,0,15.3
+"41","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 3","All",264.7,100,1.25,125.46,15.3,5.69,20.99
+"42","Scenario 2 (100 Mbps)","Hybrid","Rural 3","All",264.7,100,1.25,125.46,15.3,5.69,20.99
+"43","Scenario 1 (30 Mbps)","Small Cells","Rural 3","All",264.7,30,1.25,37.64,15.3,0,15.3
+"44","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 3","All",264.7,300,1.25,376.38,15.3,5.69,20.99
+"45","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 3","All",264.7,30,1.25,37.64,15.3,5.69,20.99
+"46","Scenario 3 (300 Mbps)","Hybrid","Rural 3","Limited",257.11,300,1.22,365.64,10.97,3.98,14.95
+"47","Scenario 2 (100 Mbps)","Small Cells","Rural 3","Limited",257.11,100,1.22,121.88,10.97,0,10.97
+"48","Scenario 1 (30 Mbps)","Hybrid","Rural 3","Limited",257.11,30,1.22,36.56,10.97,3.98,14.95
+"49","Scenario 3 (300 Mbps)","Small Cells","Rural 3","Limited",257.11,300,1.22,365.64,10.97,0,10.97
+"50","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 3","Limited",257.11,100,1.22,121.88,10.97,3.98,14.95
+"51","Scenario 2 (100 Mbps)","Hybrid","Rural 3","Limited",257.11,100,1.22,121.88,10.97,3.98,14.95
+"52","Scenario 1 (30 Mbps)","Small Cells","Rural 3","Limited",257.11,30,1.22,36.56,10.97,0,10.97
+"53","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 3","Limited",257.11,300,1.22,365.64,10.97,3.98,14.95
+"54","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 3","Limited",257.11,30,1.22,36.56,10.97,3.98,14.95
+"55","Scenario 1 (30 Mbps)","Hybrid","Rural 4","All",92.98,30,0.44,13.22,52.16,0,52.16
+"56","Scenario 2 (100 Mbps)","Hybrid","Rural 4","All",92.98,100,0.44,44.08,52.16,19.41,71.57
+"57","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 4","All",92.98,100,0.44,44.08,52.16,19.41,71.57
+"58","Scenario 2 (100 Mbps)","Small Cells","Rural 4","All",92.98,100,0.44,44.08,52.16,0,52.16
+"59","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 4","All",92.98,30,0.44,13.22,52.16,0,52.16
+"60","Scenario 1 (30 Mbps)","Small Cells","Rural 4","All",92.98,30,0.44,13.22,52.16,0,52.16
+"61","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 4","All",92.98,300,0.44,132.24,52.16,19.41,71.57
+"62","Scenario 3 (300 Mbps)","Small Cells","Rural 4","All",92.98,300,0.44,132.24,52.16,0,52.16
+"63","Scenario 3 (300 Mbps)","Hybrid","Rural 4","All",92.98,300,0.44,132.24,52.16,19.41,71.57
+"64","Scenario 1 (30 Mbps)","Hybrid","Rural 4","Limited",67.79,30,0.32,9.64,23.91,8.68,32.59
+"65","Scenario 2 (100 Mbps)","Hybrid","Rural 4","Limited",67.79,100,0.32,32.12,23.91,8.68,32.59
+"66","Scenario 2 (100 Mbps)","Spectrum Integration","Rural 4","Limited",67.79,100,0.32,32.12,23.91,8.68,32.59
+"67","Scenario 2 (100 Mbps)","Small Cells","Rural 4","Limited",67.79,100,0.32,32.12,23.91,0,23.91
+"68","Scenario 1 (30 Mbps)","Spectrum Integration","Rural 4","Limited",67.79,30,0.32,9.64,23.91,8.68,32.59
+"69","Scenario 1 (30 Mbps)","Small Cells","Rural 4","Limited",67.79,30,0.32,9.64,23.91,0,23.91
+"70","Scenario 3 (300 Mbps)","Spectrum Integration","Rural 4","Limited",67.79,300,0.32,96.36,23.91,8.68,32.59
+"71","Scenario 3 (300 Mbps)","Small Cells","Rural 4","Limited",67.79,300,0.32,96.36,23.91,0,23.91
+"72","Scenario 3 (300 Mbps)","Hybrid","Rural 4","Limited",67.79,300,0.32,96.36,23.91,8.68,32.59
+"73","Scenario 3 (300 Mbps)","Hybrid","Suburban 1","All",5401.18,300,25.6,7680.48,14.26,5.33,19.59
+"74","Scenario 1 (30 Mbps)","Hybrid","Suburban 1","All",5401.18,30,25.6,768.05,14.26,5.33,19.59
+"75","Scenario 3 (300 Mbps)","Small Cells","Suburban 1","All",5401.18,300,25.6,7680.48,14.26,0,14.26
+"76","Scenario 2 (100 Mbps)","Spectrum Integration","Suburban 1","All",5401.18,100,25.6,2560.16,14.26,5.33,19.59
+"77","Scenario 2 (100 Mbps)","Hybrid","Suburban 1","All",5401.18,100,25.6,2560.16,14.26,5.33,19.59
+"78","Scenario 1 (30 Mbps)","Small Cells","Suburban 1","All",5401.18,30,25.6,768.05,14.26,0,14.26
+"79","Scenario 3 (300 Mbps)","Spectrum Integration","Suburban 1","All",5401.18,300,25.6,7680.48,14.26,5.33,19.59
+"80","Scenario 2 (100 Mbps)","Small Cells","Suburban 1","All",5401.18,100,25.6,2560.16,14.26,0,14.26
+"81","Scenario 1 (30 Mbps)","Spectrum Integration","Suburban 1","All",5401.18,30,25.6,768.05,14.26,5.33,19.59
+"82","Scenario 3 (300 Mbps)","Hybrid","Suburban 1","Limited",5300.64,300,25.12,7537.5,10.44,3.81,14.25
+"83","Scenario 1 (30 Mbps)","Hybrid","Suburban 1","Limited",5300.64,30,25.12,753.75,10.44,3.81,14.25
+"84","Scenario 3 (300 Mbps)","Small Cells","Suburban 1","Limited",5300.64,300,25.12,7537.5,10.44,0,10.44
+"85","Scenario 2 (100 Mbps)","Spectrum Integration","Suburban 1","Limited",5300.64,100,25.12,2512.5,10.44,3.81,14.25
+"86","Scenario 2 (100 Mbps)","Hybrid","Suburban 1","Limited",5300.64,100,25.12,2512.5,10.44,3.81,14.25
+"87","Scenario 1 (30 Mbps)","Small Cells","Suburban 1","Limited",5300.64,30,25.12,753.75,10.44,0,10.44
+"88","Scenario 3 (300 Mbps)","Spectrum Integration","Suburban 1","Limited",5300.64,300,25.12,7537.5,10.44,3.81,14.25
+"89","Scenario 2 (100 Mbps)","Small Cells","Suburban 1","Limited",5300.64,100,25.12,2512.5,10.44,0,10.44
+"90","Scenario 1 (30 Mbps)","Spectrum Integration","Suburban 1","Limited",5300.64,30,25.12,753.75,10.44,3.81,14.25
+"91","Scenario 2 (100 Mbps)","Spectrum Integration","Suburban 2","All",2931.96,100,13.9,1389.76,15.31,5.73,21.04
+"92","Scenario 2 (100 Mbps)","Small Cells","Suburban 2","All",2931.96,100,13.9,1389.76,15.31,0,15.31
+"93","Scenario 1 (30 Mbps)","Spectrum Integration","Suburban 2","All",2931.96,30,13.9,416.93,15.31,5.73,21.04
+"94","Scenario 1 (30 Mbps)","Hybrid","Suburban 2","All",2931.96,30,13.9,416.93,15.31,5.73,21.04
+"95","Scenario 3 (300 Mbps)","Small Cells","Suburban 2","All",2931.96,300,13.9,4169.28,15.31,0,15.31
+"96","Scenario 3 (300 Mbps)","Hybrid","Suburban 2","All",2931.96,300,13.9,4169.28,15.31,5.73,21.04
+"97","Scenario 2 (100 Mbps)","Hybrid","Suburban 2","All",2931.96,100,13.9,1389.76,15.31,5.73,21.04
+"98","Scenario 1 (30 Mbps)","Small Cells","Suburban 2","All",2931.96,30,13.9,416.93,15.31,0,15.31
+"99","Scenario 3 (300 Mbps)","Spectrum Integration","Suburban 2","All",2931.96,300,13.9,4169.28,15.31,5.73,21.04
+"100","Scenario 2 (100 Mbps)","Spectrum Integration","Suburban 2","Limited",2847.76,100,13.5,1349.84,14.64,5.35,19.99
+"101","Scenario 2 (100 Mbps)","Small Cells","Suburban 2","Limited",2847.76,100,13.5,1349.84,14.64,0,14.64
+"102","Scenario 1 (30 Mbps)","Spectrum Integration","Suburban 2","Limited",2847.76,30,13.5,404.95,14.64,5.35,19.99
+"103","Scenario 1 (30 Mbps)","Hybrid","Suburban 2","Limited",2847.76,30,13.5,404.95,14.64,5.35,19.99
+"104","Scenario 3 (300 Mbps)","Small Cells","Suburban 2","Limited",2847.76,300,13.5,4049.52,14.64,0,14.64
+"105","Scenario 3 (300 Mbps)","Hybrid","Suburban 2","Limited",2847.76,300,13.5,4049.52,14.64,5.35,19.99
+"106","Scenario 2 (100 Mbps)","Hybrid","Suburban 2","Limited",2847.76,100,13.5,1349.84,14.64,5.35,19.99
+"107","Scenario 1 (30 Mbps)","Small Cells","Suburban 2","Limited",2847.76,30,13.5,404.95,14.64,0,14.64
+"108","Scenario 3 (300 Mbps)","Spectrum Integration","Suburban 2","Limited",2847.76,300,13.5,4049.52,14.64,5.35,19.99
+"109","Scenario 1 (30 Mbps)","Spectrum Integration","Urban","All",11790.32,30,55.89,1676.58,12.43,4.65,17.08
+"110","Scenario 1 (30 Mbps)","Small Cells","Urban","All",11790.32,30,55.89,1676.58,12.43,0,12.43
+"111","Scenario 1 (30 Mbps)","Hybrid","Urban","All",11790.32,30,55.89,1676.58,12.43,4.65,17.08
+"112","Scenario 3 (300 Mbps)","Small Cells","Urban","All",11790.32,300,55.89,16765.8,12.43,0,12.43
+"113","Scenario 3 (300 Mbps)","Hybrid","Urban","All",11790.32,300,55.89,16765.8,12.43,4.65,17.08
+"114","Scenario 2 (100 Mbps)","Small Cells","Urban","All",11790.32,100,55.89,5588.6,12.43,0,12.43
+"115","Scenario 2 (100 Mbps)","Hybrid","Urban","All",11790.32,100,55.89,5588.6,12.43,4.65,17.08
+"116","Scenario 2 (100 Mbps)","Spectrum Integration","Urban","All",11790.32,100,55.89,5588.6,12.43,4.65,17.08
+"117","Scenario 3 (300 Mbps)","Spectrum Integration","Urban","All",11790.32,300,55.89,16765.8,12.43,4.65,17.08
+"118","Scenario 1 (30 Mbps)","Spectrum Integration","Urban","Limited",9520.01,30,45.12,1353.74,11.2,4.11,15.31
+"119","Scenario 1 (30 Mbps)","Small Cells","Urban","Limited",9520.01,30,45.12,1353.74,11.2,0,11.2
+"120","Scenario 1 (30 Mbps)","Hybrid","Urban","Limited",9520.01,30,45.12,1353.74,11.2,4.11,15.31
+"121","Scenario 3 (300 Mbps)","Small Cells","Urban","Limited",9520.01,300,45.12,13537.44,11.2,0,11.2
+"122","Scenario 3 (300 Mbps)","Hybrid","Urban","Limited",9520.01,300,45.12,13537.44,11.2,4.11,15.31
+"123","Scenario 2 (100 Mbps)","Small Cells","Urban","Limited",9520.01,100,45.12,4512.48,11.2,0,11.2
+"124","Scenario 2 (100 Mbps)","Hybrid","Urban","Limited",9520.01,100,45.12,4512.48,11.2,4.11,15.31
+"125","Scenario 2 (100 Mbps)","Spectrum Integration","Urban","Limited",9520.01,100,45.12,4512.48,11.2,4.11,15.31
+"126","Scenario 3 (300 Mbps)","Spectrum Integration","Urban","Limited",9520.01,300,45.12,13537.44,11.2,4.11,15.31
