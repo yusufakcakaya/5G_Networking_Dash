@@ -1,0 +1,64 @@
+geotype,strategy,scenario,population,capacity_margin,cost
+Urban,Spectrum Integration,Scenario 1 (30 Mbps),1683185.0,-182645.0,22656594.0
+Urban,Spectrum Integration,Scenario 2 (100 Mbps),1683185.0,-953132.0,22656594.0
+Urban,Spectrum Integration,Scenario 3 (300 Mbps),1683185.0,-3154522.0,22656594.0
+Urban,Small Cells,Scenario 1 (30 Mbps),1683185.0,-15102.0,9610259.0
+Urban,Small Cells,Scenario 2 (100 Mbps),1683185.0,-65082.0,42946292.0
+Urban,Small Cells,Scenario 3 (300 Mbps),1683185.0,-207882.0,138192099.0
+Urban,Hybrid,Scenario 1 (30 Mbps),1683185.0,-8967.0,30692233.0
+Urban,Hybrid,Scenario 2 (100 Mbps),1683185.0,-62763.0,63851711.0
+Urban,Hybrid,Scenario 3 (300 Mbps),1683185.0,-205564.0,159097518.0
+Suburban 1,Spectrum Integration,Scenario 1 (30 Mbps),3356380.0,-310056.0,46589016.0
+Suburban 1,Spectrum Integration,Scenario 2 (100 Mbps),3356380.0,-1746313.0,46589016.0
+Suburban 1,Spectrum Integration,Scenario 3 (300 Mbps),3356380.0,-5849906.0,46589016.0
+Suburban 1,Small Cells,Scenario 1 (30 Mbps),3356380.0,257713.0,30110175.0
+Suburban 1,Small Cells,Scenario 2 (100 Mbps),3356380.0,-261460.0,72541386.0
+Suburban 1,Small Cells,Scenario 3 (300 Mbps),3356380.0,-831385.0,236035370.0
+Suburban 1,Hybrid,Scenario 1 (30 Mbps),3356380.0,340729.0,76699191.0
+Suburban 1,Hybrid,Scenario 2 (100 Mbps),3356380.0,-252879.0,115686518.0
+Suburban 1,Hybrid,Scenario 3 (300 Mbps),3356380.0,-822803.0,279180503.0
+Suburban 2,Spectrum Integration,Scenario 1 (30 Mbps),3346135.0,-283646.0,52874381.0
+Suburban 2,Spectrum Integration,Scenario 2 (100 Mbps),3346135.0,-1753987.0,52874381.0
+Suburban 2,Spectrum Integration,Scenario 3 (300 Mbps),3346135.0,-5954964.0,52874381.0
+Suburban 2,Small Cells,Scenario 1 (30 Mbps),3346135.0,830200.0,55890493.0
+Suburban 2,Small Cells,Scenario 2 (100 Mbps),3346135.0,-283175.0,72406433.0
+Suburban 2,Small Cells,Scenario 3 (300 Mbps),3346135.0,-923580.0,237145208.0
+Suburban 2,Hybrid,Scenario 1 (30 Mbps),3346135.0,924340.0,108764874.0
+Suburban 2,Hybrid,Scenario 2 (100 Mbps),3346135.0,-269646.0,121551166.0
+Suburban 2,Hybrid,Scenario 3 (300 Mbps),3346135.0,-910050.0,286289941.0
+Rural 1,Spectrum Integration,Scenario 1 (30 Mbps),3360665.0,-411978.0,79190084.0
+Rural 1,Spectrum Integration,Scenario 2 (100 Mbps),3360665.0,-1955487.0,79190084.0
+Rural 1,Spectrum Integration,Scenario 3 (300 Mbps),3360665.0,-6365511.0,79190084.0
+Rural 1,Small Cells,Scenario 1 (30 Mbps),3360665.0,2518667.0,138715565.0
+Rural 1,Small Cells,Scenario 2 (100 Mbps),3360665.0,975159.0,138715565.0
+Rural 1,Small Cells,Scenario 3 (300 Mbps),3360665.0,-1267766.0,238981845.0
+Rural 1,Hybrid,Scenario 1 (30 Mbps),3360665.0,2586143.0,217905649.0
+Rural 1,Hybrid,Scenario 2 (100 Mbps),3360665.0,1042634.0,217905649.0
+Rural 1,Hybrid,Scenario 3 (300 Mbps),3360665.0,-1257482.0,315525854.0
+Rural 2,Spectrum Integration,Scenario 1 (30 Mbps),1673565.0,-164213.0,49576232.0
+Rural 2,Spectrum Integration,Scenario 2 (100 Mbps),1673565.0,-882819.0,49576232.0
+Rural 2,Spectrum Integration,Scenario 3 (300 Mbps),1673565.0,-2935981.0,49576232.0
+Rural 2,Small Cells,Scenario 1 (30 Mbps),1673565.0,2968759.0,146751204.0
+Rural 2,Small Cells,Scenario 2 (100 Mbps),1673565.0,2250153.0,146751204.0
+Rural 2,Small Cells,Scenario 3 (300 Mbps),1673565.0,196991.0,146751204.0
+Rural 2,Hybrid,Scenario 1 (30 Mbps),1673565.0,3007586.0,196327435.0
+Rural 2,Hybrid,Scenario 2 (100 Mbps),1673565.0,2288980.0,196327435.0
+Rural 2,Hybrid,Scenario 3 (300 Mbps),1673565.0,235818.0,196327435.0
+Rural 3,Spectrum Integration,Scenario 1 (30 Mbps),1674690.0,-146616.0,60523267.0
+Rural 3,Spectrum Integration,Scenario 2 (100 Mbps),1674690.0,-854850.0,60523267.0
+Rural 3,Spectrum Integration,Scenario 3 (300 Mbps),1674690.0,-2878377.0,60523267.0
+Rural 3,Small Cells,Scenario 1 (30 Mbps),1674690.0,5773660.0,275879229.0
+Rural 3,Small Cells,Scenario 2 (100 Mbps),1674690.0,5065426.0,275879229.0
+Rural 3,Small Cells,Scenario 3 (300 Mbps),1674690.0,3041899.0,275879229.0
+Rural 3,Hybrid,Scenario 1 (30 Mbps),1674690.0,5816085.0,336402496.0
+Rural 3,Hybrid,Scenario 2 (100 Mbps),1674690.0,5107850.0,336402496.0
+Rural 3,Hybrid,Scenario 3 (300 Mbps),1674690.0,3084323.0,336402496.0
+Rural 4,Spectrum Integration,Scenario 1 (30 Mbps),1682390.0,51578.0,38107811.0
+Rural 4,Spectrum Integration,Scenario 2 (100 Mbps),1682390.0,-534468.0,176832745.0
+Rural 4,Spectrum Integration,Scenario 3 (300 Mbps),1682390.0,-2473762.0,176832745.0
+Rural 4,Small Cells,Scenario 1 (30 Mbps),1682390.0,26732.0,38107811.0
+Rural 4,Small Cells,Scenario 2 (100 Mbps),1682390.0,12308046.0,599629881.0
+Rural 4,Small Cells,Scenario 3 (300 Mbps),1682390.0,10368751.0,599629881.0
+Rural 4,Hybrid,Scenario 1 (30 Mbps),1682390.0,51578.0,38107811.0
+Rural 4,Hybrid,Scenario 2 (100 Mbps),1682390.0,12425599.0,776462626.0
+Rural 4,Hybrid,Scenario 3 (300 Mbps),1682390.0,10486304.0,776462626.0

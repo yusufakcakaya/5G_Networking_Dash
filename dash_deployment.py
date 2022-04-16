@@ -176,7 +176,7 @@ app.layout = html.Div([
                                 id='output-world_population'
                             ),
 
-                            html.Div("( World population can guess between 1950-2100 )",style={'text-align': 'center'})
+                            html.Div("( World population can guess until 2100 )", style={'text-align': 'center'})
 
                         ])
                     ),
@@ -698,7 +698,7 @@ def world_population(date_value):
     g_year = date_string[-4:]
 
     pop = pd.read_csv('population.csv')
-    graph_year = pop.query(f"Time=={g_year} & Variant == 'Low'")
+    graph_year = pop.query(f"Time=={g_year} & Variant == 'Medium'")
 
     world_population_fig = px.choropleth(graph_year,
                                          locationmode="country names",
